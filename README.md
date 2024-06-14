@@ -9,11 +9,7 @@
     <form action="/submit_registration" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
-        
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
-        
-        <label for="phone">Phone:</label>
+         <label for="phone">Phone:</label>
         <input type="tel" id="phone" name="phone" required><br><br>
         
         <label for="event">Select Event:</label>
